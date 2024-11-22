@@ -3,3 +3,4 @@ test.ipynb
 
 streramlit_multipage/
 .venv/
+__pycache__/
